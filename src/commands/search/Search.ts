@@ -24,6 +24,22 @@ export class Search implements CommandInterface {
         .addChoices({
           name: "Apex Legends",
           value: "apex",
+        },
+        {
+          name: "Valorant",
+          value: "valorant",
+        },
+        {
+          name: "Fortnite",
+          value: "fortnite",
+        },
+        {
+          name: "League of Legends",
+          value: "lol",
+        },
+        {
+          name: "CS: GO",
+          value: "csgo",
         })
     )
     .addStringOption((input) =>
