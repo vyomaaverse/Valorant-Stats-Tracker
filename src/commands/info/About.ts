@@ -29,11 +29,11 @@ export class About implements CommandInterface {
       title: "About me",
       description: `${bold(
         codeBlock(
-          `Hello there 👋, I am ${client.user?.username} a bot created for hacktoberfest week 2 challenge organised by Spookcord.\n\nMy Primary function is to fetch user profile and stats for games like apex legends, csgo..etc and display them in nice embeds (currently only apex legends game is available).`
+          `Hello there 👋, I am ${client.user?.username} a bot for tracking player stats.\n\nMy Primary function is to fetch user profile and stats for games like Valorant, Apex Legends, csgo and more and display them in nice embeds (currently only apex legends is available).`
         )
-      )}\nDeveloper :- Godofwar!OP#8032\nLinks: - ${hyperlink(
-        "Spookcord Website",
-        "https://spookcord.me/"
+      )}\nDeveloper :- risenfromtheashes#3783\nLinks: - ${hyperlink(
+        "Register your profile for tracking",
+        "https://tracker.gg/valorant"
       )}`,
       timestamp: true,
     });
