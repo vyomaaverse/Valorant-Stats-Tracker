@@ -3,7 +3,7 @@
 ![vyomaaverse](https://github.com/vyomaaverse/Valorant-Stats-Tracker/blob/main/src/resources/jett.jpg)
 
 A discord bot that fetches player stats and keeps track of leaderboard. 
-- Authorise with tracker.gg to use.
+- Authorize with tracker.gg to use.
 - Works on following games:
   - Valorant,
   - Apex Legends,
