@@ -7,8 +7,8 @@ A discord bot that fetches player stats and keeps track of leaderboard.
 - Works on following games:
   - Valorant,
   - Apex Legends,
-  - League of Legends
-  - Fortnite and,
+  - Fortnite,
+  - League of Legends and,
   - CS: GO
 - Track top region wise ratings as well as Guild ratings.
 
